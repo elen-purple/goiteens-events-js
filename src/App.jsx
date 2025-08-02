@@ -1,4 +1,3 @@
-import "./App.css";
 import { BiAlarm } from "react-icons/bi";
 import { BiCalendarAlt } from "react-icons/bi";
 import { BiBeenHere } from "react-icons/bi";
