@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const Item = styled.li`
+  border-radius: 40px;
   width: calc((100% - 60px) / 2);
   box-shadow: 10px 10px 0 0 #ffb300ff, -10px -10px 0 0 #ffee00ff;
   padding: 60px 40px;
